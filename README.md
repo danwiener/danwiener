@@ -1,3 +1,2 @@
-![image title](https://rushter.com/counter.svg)
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
