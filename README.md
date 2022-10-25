@@ -1,2 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/{danwiener}/count.svg)
-
+![](https://komarev.com/ghpvc/?danwiener=your-github-danwiener&label=PROFILE+VIEWS)
