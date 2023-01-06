@@ -2,4 +2,4 @@
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=danwiener&label=PROFILE+VIEWS)
 &nbsp;
-[www.](https://www.henrikwiener.com/)
+[henrikwiener.com](https://www.henrikwiener.com/)
